@@ -1,0 +1,28 @@
+
+nav {
+    margin-top: 20px;
+}
+nav .navbar-brand{
+    color: black;
+    font-weight: 900;
+    letter-spacing: 5px;
+    font-family: 'Tajawal', sans-serif;
+}
+.ml-auto {
+    margin-left: auto!important;
+}
+
+.header-bottom .image-error img{
+    width: 100%;
+}
+
+.header-bottom .text-error {
+    margin-top: 230px;
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+
+}
+.header-bottom .text-error h2 {
+    color: #474af1;
+    font-weight: 600;
+}
